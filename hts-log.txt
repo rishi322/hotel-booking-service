@@ -1,0 +1,43 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 04 Jun 2023 12:23:30 at https://andit.co/projects/html/and-tour/demo/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://andit.co/projects/html/and-tour/demo/index.html -O1 "C:\Users\kanbi\Downloads\plsgod" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:23:34	Warning: 	File not parsed, looks like binary: https://andit.co/robots.txt
+12:39:03	Warning: 	file not stored in cache due to bogus state (broken size, expected 2427160 got 1835008): https://andit.co/projects/html/and-tour/demo/assets/img/banner/banner-three.png
+13:07:46	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://andit.co/projects/html/and-tour/demo/assets/img/partner/2.png (from https://andit.co/projects/html/and-tour/demo/index.html)
+13:07:46	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://andit.co/projects/html/and-tour/demo/assets/img/partner/6.png (from https://andit.co/projects/html/and-tour/demo/index.html)
+13:07:46	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://andit.co/projects/html/and-tour/demo/assets/img/partner/7.png (from https://andit.co/projects/html/and-tour/demo/index.html)
+13:07:47	Error: 	"Not Found" (404) at link https://andit.co/projects/html/and-tour/demo/faq.html (from https://andit.co/projects/html/and-tour/demo/index.html)
+13:07:47	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://andit.co/projects/html/and-tour/demo/assets/js/jquery.meanmenu.js (from https://andit.co/projects/html/and-tour/demo/index.html)
+13:07:48	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://andit.co/projects/html/and-tour/demo/assets/js/owl.carousel.min.js (from https://andit.co/projects/html/and-tour/demo/index.html)
+13:07:50	Error: 	"Not Found" (404) at link https://andit.co/projects/html/and-tour/demo/assets/css/owl.video.play.html (from https://andit.co/projects/html/and-tour/demo/assets/css/owl.carousel.min.css)
+13:07:50	Warning: 	Retry after error -4 (Incorrect length (1835008 Bytes, 2427160 expected)) at link https://andit.co/projects/html/and-tour/demo/assets/img/banner/banner-three.png (from https://andit.co/projects/html/and-tour/demo/assets/css/style.css)
+13:07:50	Warning: 	Retry after error -4 (Connect Error) at link https://andit.co/projects/html/and-tour/demo/assets/img/common/test-bg.png (from https://andit.co/projects/html/and-tour/demo/assets/css/style.css)
+13:07:50	Error: 	"Not Found" (404) at link https://andit.co/projects/html/and-tour/demo/assets/css/slick-theme.css (from https://andit.co/projects/html/and-tour/demo/login.html)
+13:07:50	Warning: 	Retry after error -2 (Receive Time Out) at link https://andit.co/projects/html/and-tour/demo/assets/img/banner/banner-two-bg-1.png (from https://andit.co/projects/html/and-tour/demo/index-2.html)
+13:07:50	Warning: 	Retry after error -2 (Receive Time Out) at link https://andit.co/projects/html/and-tour/demo/assets/img/banner/banner-two-bg-3.png (from https://andit.co/projects/html/and-tour/demo/index-2.html)
+13:07:53	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://andit.co/projects/html/and-tour/demo/assets/img/icon/sm-call.png (from https://andit.co/projects/html/and-tour/demo/index-2.html)
+13:07:54	Warning: 	Retry after error -2 (Receive Time Out) at link https://andit.co/projects/html/and-tour/demo/assets/img/banner/banner-4.png (from https://andit.co/projects/html/and-tour/demo/index-4.html)
+13:07:57	Warning: 	Retry after error -2 (Receive Time Out) at link https://andit.co/projects/html/and-tour/demo/assets/img/tour/popular-2.png (from https://andit.co/projects/html/and-tour/demo/index-4.html)
+13:08:00	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://andit.co/projects/html/and-tour/demo/assets/img/tour/popular-3.png (from https://andit.co/projects/html/and-tour/demo/index-4.html)
+13:08:02	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://andit.co/projects/html/and-tour/demo/assets/img/icon/beach.png (from https://andit.co/projects/html/and-tour/demo/index-4.html)
+13:08:04	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://andit.co/projects/html/and-tour/demo/assets/img/news/news-3.png (from https://andit.co/projects/html/and-tour/demo/index-4.html)
+13:08:16	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://andit.co/projects/html/and-tour/demo/assets/img/tour/big-img4.png (from https://andit.co/projects/html/and-tour/demo/tour-details.html)
+13:08:16	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://andit.co/projects/html/and-tour/demo/assets/img/tour/small7-img.png (from https://andit.co/projects/html/and-tour/demo/tour-details.html)
+13:08:16	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://andit.co/projects/html/and-tour/demo/assets/img/common/visa_info-2.png (from https://andit.co/projects/html/and-tour/demo/visa-info.html)
+13:08:22	Error: 	"Not Found" (404) at link https://andit.co/projects/html/and-tour/demo/! (from https://andit.co/projects/html/and-tour/demo/about.html)
+13:08:22	Warning: 	Retry after error -2 (Receive Time Out) at link https://andit.co/projects/html/and-tour/demo/assets/img/tour-guides/guide-7.png (from https://andit.co/projects/html/and-tour/demo/tour-guides.html)
+13:08:29	Warning: 	Retry after error -2 (Receive Time Out) at link https://andit.co/projects/html/and-tour/demo/assets/img/tour-guides/guide-8.png (from https://andit.co/projects/html/and-tour/demo/tour-guides.html)
+13:08:35	Error: 	"Not Found" (404) at link https://andit.co/projects/html/and-tour/demo/assets/css/ajax-loader.gif (from https://andit.co/projects/html/and-tour/demo/assets/css/slick-theme.min.css)
+13:08:35	Error: 	"Not Found" (404) at link https://andit.co/projects/html/and-tour/demo/assets/css/fonts/slick.eot (from https://andit.co/projects/html/and-tour/demo/assets/css/slick-theme.min.css)
+13:08:35	Error: 	"Not Found" (404) at link https://andit.co/projects/html/and-tour/demo/assets/css/fonts/slick.eot? (from https://andit.co/projects/html/and-tour/demo/assets/css/slick-theme.min.css)
+13:08:35	Error: 	"Not Found" (404) at link https://andit.co/projects/html/and-tour/demo/assets/css/fonts/slick.woff (from https://andit.co/projects/html/and-tour/demo/assets/css/slick-theme.min.css)
+13:08:35	Error: 	"Not Found" (404) at link https://andit.co/projects/html/and-tour/demo/assets/css/fonts/slick.ttf (from https://andit.co/projects/html/and-tour/demo/assets/css/slick-theme.min.css)
+13:08:35	Error: 	"Not Found" (404) at link https://andit.co/projects/html/and-tour/demo/assets/css/fonts/slick.svg (from https://andit.co/projects/html/and-tour/demo/assets/css/slick-theme.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 45 minutes 5 seconds : 427 links scanned, 395 files written (53232495 bytes overall) [45289751 bytes received at 16742 bytes/sec], 9337707 bytes transferred using HTTP compression in 111 files, ratio 12%, 2.4 requests per connection
+(10 errors, 22 warnings, 0 messages)
